@@ -1,0 +1,88 @@
+.div1{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+.div2{
+background-image: url("./image/Belles\ Beach\ House\ Blends\ Breezy\ Hawaiian\ Resort\ With\ Izakaya-Style\ Fare\ \(1\).jfif");
+width: 100%;
+height: 500px;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+}
+.Ropo{
+    text-align: center;
+position: relative;
+top: 100px;
+}
+#imad{
+    color: rgb(11, 11, 11);
+}
+#afquir{
+    color: rgb(241, 158, 5);
+}
+.ro{
+    border-radius: 30px;
+    width: 300px;
+    height: 500px;
+    position: relative;
+    float: inline-end;    
+    top: 40px;
+}
+.po{display: flex;
+    color: white;
+    margin-right: 500px;
+    position: relative;
+    top: 200px;
+    left: 80px;
+}
+.im{
+    position: relative;
+    top: 220px;
+    left: 300px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 30px;
+    color: rgb(255, 167, 5);
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+.ad{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 167, 3);
+    position: relative;
+    top: 300px;
+    left: 250px;
+}
+.af{
+    height: 15px;
+    width: 20px;
+    position: relative;
+    top: 300px;
+    left: 300px;
+    border-radius: 50px;
+}
+.qu{
+color: rgb(255, 166, 0);
+position: relative;
+top:285px;
+left: 340px; 
+font-size: 7px;
+}
+.ir{
+    color: rgb(255, 166, 0);
+position: relative;
+top:285px;
+left: 340px; 
+font-size: 7px;
+}
+.mm{
+    height: 15px;
+    width: 20px;
+    position: relative;
+    top: 250px;
+    left: 300px;
+    border-radius: 50px;    
+}
